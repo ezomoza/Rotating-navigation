@@ -1,3 +1,4 @@
 Animacion de menu con ***CSS + JAVASCRIPT***
 
-![menuanimation](https://github.com/ezomoza/Rotating-navigation/assets/114027093/4ac461ef-8c27-4b67-952f-7cf69f546784)
+![rotating-animation](https://github.com/ezomoza/Rotating-navigation/assets/114027093/f8589b8f-177b-4249-91ec-6ce462e11927)
+
